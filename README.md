@@ -31,7 +31,7 @@ pip install opencv-python opencv-python-headless numpy pandas
 ### Clone the Repository:
 
 ```bash
-git clone https://github.com/yourusername/yourrepository.git
+git clone https://github.com/Shashank 0769/yourrepository.git
 cd yourrepository
 ```
 
